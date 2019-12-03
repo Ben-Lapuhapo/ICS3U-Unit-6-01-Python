@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Plagarized by : Tedd Sannan
+# Plagarized by : Teddy Sannan
 # Created on : December 02 2019
 # This program uses arrays
 
